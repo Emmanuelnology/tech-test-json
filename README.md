@@ -19,6 +19,8 @@ Spend the time to find a clean way to solve the tasks, we just want to see how m
 2. One Question Quiz
 3. Football Team Organiser
 
+Note. Please have these challenges all in one app using Angulars routing to navigate between them.  
+
 
 ## Weather Cards
 
